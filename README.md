@@ -26,7 +26,7 @@ Sou formado em **Sistemas de Informação** e atualmente estou concluindo minha 
 ## 🌟 Sobre mim
 
 - 📍 **Localização**: São Paulo, SP
-- 📅 **Idade**: 22 anos
+- 📅 **Idade**: 23 anos
 - 🎓 **Formação Acadêmica**: Graduando em Análise e Desenvolvimento de Sistemas (FIAP) - Conclusão prevista para 2025
 - 💻 **Áreas de Atuação**: Full-Stack Development, Back-End Development
 - 🏋️ **Fora do Trabalho**: Praticante de musculação e artes marciais, sempre buscando equilíbrio entre corpo e mente.
